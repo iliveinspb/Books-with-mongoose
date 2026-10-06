@@ -21,9 +21,22 @@ lerna-debug.log*
 # Tests
 /coverage
 /.nyc_output
+/test
+*.spec.ts
+*.e2e-spec.ts
+
+# Instructions / plan
+/instructions.md
+AGENTS.md
+opencode.json
+.opencode*
+CLAUDE.md
+.cursor/
+.claude/
 
 # IDEs and editors
 /.idea
+.idea/
 .project
 .classpath
 .c9/
